@@ -6,8 +6,8 @@ This project analyzes a dataset of Indian movies using SQL Server for data clean
 
 This project demonstrates proficiency in:
 * **SQL Server:** For data manipulation, cleaning, normalization, and complex querying.
-* **Data Analysis** Extracting insights from data through SQL server.
-* **Data Visualization** Creating Interactive dashboards using Tableau Public.
+* **Data Analysis:** Extracting insights from data through SQL server.
+* **Data Visualization:** Creating Interactive dashboards using Tableau Public.
 
 ## Dataset
 
@@ -24,6 +24,7 @@ The original "IndianMovies" table likely contained redundant information and inc
 * Cleaning and transforming data for consistency.
 * Data Cleaning and Normalization Steps
 
+You can find the queries I have used in the "Indian Movies Dataset cleaning.sql" File.
 
 ### Data Exploration and Analysis: 
 
@@ -45,6 +46,14 @@ After cleaning and transforming the data, several queries were executed to explo
 * Which films got the highest rating and votes?
 * What is the average runtime for the films?
 * What is the average number of films released in a year?
+
+You can find the queries I have used in the "Indian Movies Data Exploration.sql" File.
+
+## Data Visualization (Tableau)
+
+The results of each of these SQL queries were exported to Excel files. These Excel files were then imported into Tableau Public to create an Interactive Dashboard.
+
+[https://public.tableau.com/app/profile/sai.paruchuri/viz/IndianFilmsAnalysis_Sample/Dashboard2]
 
 
 
