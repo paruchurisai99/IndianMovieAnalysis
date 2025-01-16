@@ -5,9 +5,9 @@ This project analyzes a dataset of Indian movies using SQL Server for data clean
 ## Project Overview
 
 This project demonstrates proficiency in:
-**SQL Server:** For data manipulation, cleaning, normalization, and complex querying.
-**Data Analysis** Extracting insights from data through SQL server.
-**Data Visualization** Creating Interactive dashboards using Tableau Public.
+***SQL Server:** For data manipulation, cleaning, normalization, and complex querying.
+***Data Analysis** Extracting insights from data through SQL server.
+***Data Visualization** Creating Interactive dashboards using Tableau Public.
 
 ## Dataset
 
