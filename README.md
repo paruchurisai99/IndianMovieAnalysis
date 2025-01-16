@@ -1,9 +1,17 @@
-# IndianMovieAnalysis
+# Indian Movie Data Analysis with SQL Server and Tableau
 
-## Data cleaning, transforming, and analyzing the Indian Movie dataset.
+This project analyzes a dataset of Indian movies using SQL Server for data cleaning, normalization, and querying, followed by data visualization with Tableau.
 
+## Project Overview
 
-I took an Indian Movie dataset from Kaggle and then normalized the table in the SQL server database. The goal is to improve integrity, reduce redundancy, and enhance data manipulation efficiency.
+This project demonstrates proficiency in:
+**SQL Server:** For data manipulation, cleaning, normalization, and complex querying.
+**Data Analysis** Extracting insights from data through SQL server.
+**Data Visualization** Creating Interactive dashboards using Tableau Public.
+
+## Dataset
+
+The dataset used in this project is the "Indian Movies" dataset from Kaggle. [https://www.kaggle.com/datasets/nareshbhat/indian-moviesimdb]
 
 ### Data Cleaning and Transformation:
 
