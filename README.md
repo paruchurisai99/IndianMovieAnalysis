@@ -8,13 +8,13 @@ I took an Indian Movie dataset from Kaggle and then normalized the table in SQL 
 Data Cleaning and Transformation:
 
 The original "IndianMovies" table likely contained redundant information and inconsistencies. I have addressed these issues by:
-Splitting multi-valued columns (e.g., Genre) into separate tables.
-Creating new tables to group related data (e.g., Genres, Languages).
-Establishing relationships between tables using foreign keys.
-Removing duplicate data.
-Setting primary keys for each table.
-Cleaning and transforming data for consistency.
-Data Cleaning and Normalization Steps
+* Splitting multi-valued columns (e.g., Genre) into separate tables.
+* Creating new tables to group related data (e.g., Genres, Languages).
+* Establishing relationships between tables using foreign keys.
+* Removing duplicate data.
+* Setting primary keys for each table.
+* Cleaning and transforming data for consistency.
+* Data Cleaning and Normalization Steps
 
 
 Data Exploration and Analysis: 
