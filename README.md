@@ -1,5 +1,6 @@
 # IndianMovieAnalysis
-Data cleaning, transforming, and analyzing the Indian Movie dataset.
+
+##Data cleaning, transforming, and analyzing the Indian Movie dataset.
 
 
 I took an Indian Movie dataset from Kaggle and then normalized the table in SQL server database. The goal is to improve integrity, reduce redundancy, and enhance data manipulation efficiency.
