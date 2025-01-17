@@ -54,7 +54,8 @@ You can find the queries I have used in the "Indian Movies Data Exploration.sql"
 
 The results of each of these SQL queries were exported to Excel files. These Excel files were then imported into Tableau Public to create an Interactive Dashboard as below:
 
-[logo]: (<img width="958" alt="Dashboard" src="https://github.com/user-attachments/assets/4211679e-3912-4b1c-9c3e-68ff034661eb" />)
+[logo]: ()
+
 
 
 [https://public.tableau.com/app/profile/sai.paruchuri/viz/IndianFilmsAnalysis_Sample/Dashboard2]
