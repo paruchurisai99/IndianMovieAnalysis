@@ -25,6 +25,7 @@ The original "IndianMovies" table likely contained redundant information and inc
 * Data Cleaning and Normalization Steps
 
 You can find the queries I have used in the "Indian Movies Dataset cleaning.sql" File.
+https://github.com/paruchurisai99/IndianMovieAnalysis/blob/0ffbc9d1739f57c3883e93d49f44eca0d574c980/SQL%20Queries/Indian%20Movies%20Dataset%20cleaning%20and%20Transformation.sql
 
 ### Data Exploration and Analysis: 
 
