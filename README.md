@@ -47,7 +47,7 @@ After cleaning and transforming the data, several queries were executed to explo
 * What is the average runtime for the films?
 * What is the average number of films released in a year?
 
-You can find the queries I have used in the "Indian Movies Data Exploration.sql" File. [SQL Queries](Indian Movies Data Exploration and Analysis.sql) https://github.com/paruchurisai99/IndianMovieAnalysis/blob/0ce84b2190ac6dcf422652bfcb6434e82ee4b2a6/SQL%20Queries/Indian%20Movies%20Data%20Exploration%20and%20Analysis.sql
+You can find the queries I have used in the "Indian Movies Data Exploration.sql" File. https://github.com/paruchurisai99/IndianMovieAnalysis/blob/0ce84b2190ac6dcf422652bfcb6434e82ee4b2a6/SQL%20Queries/Indian%20Movies%20Data%20Exploration%20and%20Analysis.sql
 
 ## Data Visualization (Tableau)
 
